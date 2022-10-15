@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dll_base.h": "c",
+        "structures.h": "c",
+        "errors.h": "c"
+    }
+}
